@@ -25,7 +25,7 @@ def fetch_cards_from_anki(deck_name="Italiano"):
             return []
 
         if "result" not in data:
-            print(f"Response missing 'result' field")
+            print("Response missing 'result' field")
             return []
 
         card_ids = data["result"]
@@ -119,6 +119,15 @@ def save_to_json(cards, output_dir="docs"):
 def push_to_github():
     """Commit and push changes to GitHub"""
     try:
+        # Store current directory
+        current_dir = os.getcwd()
+
+        # Get script directory (repository root)
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+
+        # Change to repository directory
+        os.chdir(script_dir)
+
         # Add all files in docs directory
         os.system("git add docs/")
 
@@ -129,9 +138,15 @@ def push_to_github():
         # Push to origin
         os.system("git push origin main")
 
+        # Return to original directory
+        os.chdir(current_dir)
+
         return True
     except Exception as e:
         print(f"Error pushing to GitHub: {e}")
+        # Ensure we return to original directory even if error occurs
+        if "current_dir" in locals():
+            os.chdir(current_dir)
         return False
 
 
