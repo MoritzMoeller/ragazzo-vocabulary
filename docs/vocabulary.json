@@ -1,0 +1,838 @@
+{
+  "vocabulary": [
+    {
+      "front": "Drei Servietten fehlen",
+      "back": "Mancano tre tovaglioli"
+    },
+    {
+      "front": "Entschuldigen Sie!",
+      "back": "Scusi!"
+    },
+    {
+      "front": "Bitte",
+      "back": "Per favore, Per cortesia"
+    },
+    {
+      "front": "Danke",
+      "back": "Grazie"
+    },
+    {
+      "front": "hoffentlich (auch: vielleicht)",
+      "back": "magari"
+    },
+    {
+      "front": "Vielleicht später (hoffentlich)",
+      "back": "Magari dopo"
+    },
+    {
+      "front": "Zahlen",
+      "back": "Pagare"
+    },
+    {
+      "front": "Die Rechnung bitte",
+      "back": "Il conto, per favore"
+    },
+    {
+      "front": "Wie viel kostet das?",
+      "back": "Quant'è?"
+    },
+    {
+      "front": "Mit der Karte, bitte",
+      "back": "Con la carta, per piacere"
+    },
+    {
+      "front": "Hier akzeptieren wir nur cash.",
+      "back": "Qui accettiamo solo contanti."
+    },
+    {
+      "front": "Trinkgeld",
+      "back": "La mancia"
+    },
+    {
+      "front": "Mittagessen",
+      "back": "Pranzo"
+    },
+    {
+      "front": "Trinkgeld geben",
+      "back": "Dare la mancia"
+    },
+    {
+      "front": "Etwas anderes",
+      "back": "Qualcos'altro"
+    },
+    {
+      "front": "Kann ich das mitnehmen?",
+      "back": "Posso portar via?"
+    },
+    {
+      "front": "Kellner",
+      "back": "Cameriere"
+    },
+    {
+      "front": "Toilette",
+      "back": "Bagno"
+    },
+    {
+      "front": "noch, nochmal, immer noch",
+      "back": "ancora"
+    },
+    {
+      "front": "Noch eine Flasche Wasser",
+      "back": "<div>Ancora una bottiglia d’acqua</div>"
+    },
+    {
+      "front": "etwas Käse",
+      "back": "del formaggio"
+    },
+    {
+      "front": "Ist das <u>so</u> in Ordnung?",
+      "back": "<u>Così</u> va bene?"
+    },
+    {
+      "front": "Vier",
+      "back": "Quattro"
+    },
+    {
+      "front": "46",
+      "back": "Quarantasei"
+    },
+    {
+      "front": "Bei",
+      "back": "presso, da"
+    },
+    {
+      "front": "Anwaltskanzlei",
+      "back": "Lo studio legale&nbsp;"
+    },
+    {
+      "front": "Bevorzugen&nbsp;",
+      "back": "prefer - isc - o<div>prefer - isc - i</div><div>prefer - isc - e</div><div>prefer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- iamo</div><div>prefer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ite</div><div>prefer - isc - ono</div>"
+    },
+    {
+      "front": "Der Tisch",
+      "back": "il tavolo"
+    },
+    {
+      "front": "der gedeckte Tisch",
+      "back": "la tavola"
+    },
+    {
+      "front": "\"Kommt alle zu Tisch!\"",
+      "back": "Tutti a tavola!"
+    },
+    {
+      "front": "Glas, Gläser",
+      "back": "Bicchiere, Bicchieri"
+    },
+    {
+      "front": "Gabel",
+      "back": "Forchetta"
+    },
+    {
+      "front": "Löffel",
+      "back": "Cucchiaio"
+    },
+    {
+      "front": "Löffelchen",
+      "back": "Cucchiaino"
+    },
+    {
+      "front": "Messer",
+      "back": "Coltello"
+    },
+    {
+      "front": "Essig",
+      "back": "Aceto"
+    },
+    {
+      "front": "Öl",
+      "back": "Olio"
+    },
+    {
+      "front": "Wasser",
+      "back": "Acqua"
+    },
+    {
+      "front": "Salz und Pfeffer",
+      "back": "Sale e pepe"
+    },
+    {
+      "front": "Teller",
+      "back": "Piatto"
+    },
+    {
+      "front": "Brot",
+      "back": "Pane"
+    },
+    {
+      "front": "Serviette",
+      "back": "Tovagliolo"
+    },
+    {
+      "front": "Tischdecke",
+      "back": "Tovaglia"
+    },
+    {
+      "front": "Tasse",
+      "back": "Tazza"
+    },
+    {
+      "front": "Tässchen",
+      "back": "Tazzina"
+    },
+    {
+      "front": "Besteck",
+      "back": "Le posate"
+    },
+    {
+      "front": "Eine Serviette fehlt!",
+      "back": "Manca un tovagliolo!"
+    },
+    {
+      "front": "Woher kommen Sie?",
+      "back": "Di dov'è?"
+    },
+    {
+      "front": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p><span style=\"font-size: 18.000000pt; font-family: 'PalatinoLinotype'\">Wo wohnst du?</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>",
+      "back": "<span style=\"font-family: PalatinoLinotype; font-size: 24px;\">Dove abiti?</span>"
+    },
+    {
+      "front": "56",
+      "back": "Cinquantasei"
+    },
+    {
+      "front": "Laura und Anna sind glücklich&nbsp;",
+      "back": "Laura e Anna&nbsp;sono felici&nbsp;"
+    },
+    {
+      "front": "Sekretärin",
+      "back": "La segretaria"
+    },
+    {
+      "front": "Zuerst muss ich einen Kaffee trinken",
+      "back": "Prima ho bisogno di bere un caffè"
+    },
+    {
+      "front": "Wie lautet deine Adresse?",
+      "back": "Qual è il tuo indirizzo?"
+    },
+    {
+      "front": "Sechs",
+      "back": "Sei"
+    },
+    {
+      "front": "Ich wohne in Berlin.",
+      "back": "Abito a Berlino."
+    },
+    {
+      "front": "Ihr arbeitet in einer Apotheke.",
+      "back": "(Voi) lavorate in una farmacia."
+    },
+    {
+      "front": "Hier",
+      "back": "Qui, qua"
+    },
+    {
+      "front": "Jetzt",
+      "back": "Ora&nbsp;"
+    },
+    {
+      "front": "Wie alt bist du?",
+      "back": "Quanti anni hai?"
+    },
+    {
+      "front": "Ich sende dir eine nachricht",
+      "back": "Ti invio un messaggio"
+    },
+    {
+      "front": "Was nehmen sie zum essen?",
+      "back": "Che cosa prendono da mangiare?"
+    },
+    {
+      "front": "Und du, wie heißt du?",
+      "back": "E tu come ti chiami?"
+    },
+    {
+      "front": "26",
+      "back": "Ventisei"
+    },
+    {
+      "front": "71",
+      "back": "Settantuno"
+    },
+    {
+      "front": "Das Büro",
+      "back": "L’ufficio"
+    },
+    {
+      "front": "Meine tochter braucht viele unterhaltungen",
+      "back": "Mia figlia ha bisogno di fare molta conversazione."
+    },
+    {
+      "front": "Ich möchte ein Bier!",
+      "back": "Vorrei una birra!"
+    },
+    {
+      "front": "Nehmen, alle formen",
+      "back": "prend - o<div>prend - i</div><div>prend - e</div><div>prend - iamo</div><div>prend - ete</div><div>prend - ono</div>"
+    },
+    {
+      "front": "Bestimmte Artikel Plural Singular&nbsp;",
+      "back": "<img src=\"image-d37059190da2e9ec59f8028a05d12fcf0739d2cb.png\">"
+    },
+    {
+      "front": "Was ist Ihre Telefonnummer?",
+      "back": "Qual è il Suo numero di telefono?"
+    },
+    {
+      "front": "Tauschen&nbsp;",
+      "back": "Scambiare&nbsp;"
+    },
+    {
+      "front": "Aber",
+      "back": "Però<div>Ma</div>"
+    },
+    {
+      "front": "Du bist ein Knauser!",
+      "back": "Hai il braccino corto"
+    },
+    {
+      "front": "Zehn",
+      "back": "Dieci"
+    },
+    {
+      "front": "Wir wohnen in Berlin.",
+      "back": "Abitiamo a Berlino."
+    },
+    {
+      "front": "Eine Werbeagentur&nbsp;",
+      "back": "Un’agenzia pubblicitaria"
+    },
+    {
+      "front": "Putzen",
+      "back": "Pul - isc - o<div>pul - isc - i</div><div>pul - isc - e</div><div>pul &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- iamo</div><div>pul &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ite</div><div>pul - isc - ono</div>"
+    },
+    {
+      "front": "66",
+      "back": "Sessantasei"
+    },
+    {
+      "front": "Ich nehme ein Hörnchen und einen Kaffee.",
+      "back": "Prendo un cornetto e un caffè."
+    },
+    {
+      "front": "Eis",
+      "back": "Ghiaccio"
+    },
+    {
+      "front": "Bohnen",
+      "back": "Fagioli&nbsp;"
+    },
+    {
+      "front": "Wollen, alle Formen",
+      "back": "voglio<div>vuoi</div><div>vuole</div><div>vogliamo</div><div>volete</div><div>vogliono</div>"
+    },
+    {
+      "front": "Das ist Max, ein Freund von mir.",
+      "back": "Questo è Max, un mio amico."
+    },
+    {
+      "front": "Ich mache",
+      "back": "(Io) faccio"
+    },
+    {
+      "front": "Weniger",
+      "back": "Di meno"
+    },
+    {
+      "front": "drei",
+      "back": "tre"
+    },
+    {
+      "front": "Fremd",
+      "back": "Straniero"
+    },
+    {
+      "front": "Für einen sauberen Mund",
+      "back": "Per una bocca pulita&nbsp;"
+    },
+    {
+      "front": "41",
+      "back": "Quarantuno"
+    },
+    {
+      "front": "Wir haben",
+      "back": "Noi abbiamo"
+    },
+    {
+      "front": "du hast",
+      "back": "(tu) hai"
+    },
+    {
+      "front": "Wo arbeitest du?",
+      "back": "Dove lavori?"
+    },
+    {
+      "front": "Mehr&nbsp;",
+      "back": "Di più"
+    },
+    {
+      "front": "Ich heiße Moritz",
+      "back": "Mi chiamo Moritz"
+    },
+    {
+      "front": "Mir geht es heute sehr gut!",
+      "back": "Oggi sto benissimo!"
+    },
+    {
+      "front": "Sie suchen",
+      "back": "Cercano"
+    },
+    {
+      "front": "Ihr habt",
+      "back": "Voi avete"
+    },
+    {
+      "front": "Arbeiter(in)",
+      "back": "L’operaio/l’operaia"
+    },
+    {
+      "front": "Wirklich",
+      "back": "Proprio&nbsp;"
+    },
+    {
+      "front": "Wie viel Uhr ist es?",
+      "back": "Che ore sono?"
+    },
+    {
+      "front": "Braucht ihr etwas?",
+      "back": "Avete bisogno di qualcosa?"
+    },
+    {
+      "front": "Ihr seid",
+      "back": "(Voi) siete"
+    },
+    {
+      "front": "Sie haben",
+      "back": "Loro hanno&nbsp;"
+    },
+    {
+      "front": "Das sind assis!",
+      "back": "Sono cafoni!"
+    },
+    {
+      "front": "61",
+      "back": "Sessantuno"
+    },
+    {
+      "front": "Leher, Lehrerin",
+      "back": "L’insegnante"
+    },
+    {
+      "front": "Nachname",
+      "back": "Il cognome&nbsp;"
+    },
+    {
+      "front": "Wir sind",
+      "back": "(Noi) Siamo"
+    },
+    {
+      "front": "Er hat&nbsp;",
+      "back": "Lui ha"
+    },
+    {
+      "front": "Du bist eine echte assi Braut.",
+      "back": "Sei una vera cafona."
+    },
+    {
+      "front": "Jetzt bin ich nicht dreckig",
+      "back": "Adesso non sono sporco!"
+    },
+    {
+      "front": "(Du) hast",
+      "back": "(Tu) hai"
+    },
+    {
+      "front": "Architekt, Architektin&nbsp;",
+      "back": "L’architetto (m+f)"
+    },
+    {
+      "front": "Max ist dreckig",
+      "back": "Max è sporco&nbsp;"
+    },
+    {
+      "front": "Seltsam",
+      "back": "Strano"
+    },
+    {
+      "front": "Sind Sie Französin?",
+      "back": "Lei è francese?"
+    },
+    {
+      "front": "Elf",
+      "back": "Undici"
+    },
+    {
+      "front": "Party",
+      "back": "Festa"
+    },
+    {
+      "front": "Sohn",
+      "back": "Figlio"
+    },
+    {
+      "front": "Ich suche",
+      "back": "Cerco"
+    },
+    {
+      "front": "Anna ist Schweizerin",
+      "back": "Anna è svizzera."
+    },
+    {
+      "front": "Anwalt, Anwältin&nbsp;",
+      "back": "L’avvocato, l’avvocata"
+    },
+    {
+      "front": "Darf ich dir Anna vorstellen?",
+      "back": "Ti presento Anna."
+    },
+    {
+      "front": "Was arbeitest du?",
+      "back": "Che lavoro fai?"
+    },
+    {
+      "front": "Entschuldigung, wie heißen Sie?",
+      "back": "Scusi, Lei come si chiama?"
+    },
+    {
+      "front": "null",
+      "back": "zero"
+    },
+    {
+      "front": "Was bedeutet \"Gelato\"?",
+      "back": "Cosa significa “gelato”?"
+    },
+    {
+      "front": "Aber",
+      "back": "Ma"
+    },
+    {
+      "front": "Du arbeitest in einem Restaurant.",
+      "back": "Lavori in un ristorante."
+    },
+    {
+      "front": "Woher kommst du?",
+      "back": "Di dove sei?"
+    },
+    {
+      "front": "Trinken, ich trinke, ihr trinkt",
+      "back": "Bere, (io) bevo, (voi) bevete"
+    },
+    {
+      "front": "Wie lautet Ihre Adresse?",
+      "back": "Qual è il Suo indirizzo?"
+    },
+    {
+      "front": "Angestellte, Angestellter",
+      "back": "L’impiegato, l’impiegata"
+    },
+    {
+      "front": "Du bist Anna.",
+      "back": "Sei Anna."
+    },
+    {
+      "front": "Was macht ihr schönes?",
+      "back": "Che cosa fate di bello?"
+    },
+    {
+      "front": "Zwölf",
+      "back": "Dodici"
+    },
+    {
+      "front": "Neunzehn",
+      "back": "Diciannove"
+    },
+    {
+      "front": "Zeitung",
+      "back": "Giornale"
+    },
+    {
+      "front": "(Ich) habe",
+      "back": "(Io) ho"
+    },
+    {
+      "front": "Geld",
+      "back": "Soldi"
+    },
+    {
+      "front": "Wie geht es Ihnen (how are you)",
+      "back": "Come sta"
+    },
+    {
+      "front": "Du machst",
+      "back": "(Tu) fai"
+    },
+    {
+      "front": "Zum Frühstück esse ich nichts&nbsp;",
+      "back": "Per / A colazione non mangio niente&nbsp;"
+    },
+    {
+      "front": "Sie machen",
+      "back": "Loro fanno"
+    },
+    {
+      "front": "Ich kenne französisch&nbsp;",
+      "back": "Conosco il Francese&nbsp;"
+    },
+    {
+      "front": "Kosmetiker,kosmetikerin",
+      "back": "L’estetista (m+f)"
+    },
+    {
+      "front": "Max ist Deutscher.",
+      "back": "Max è tedesco."
+    },
+    {
+      "front": "Was ist er von Beruf?",
+      "back": "Che lavoro fa?"
+    },
+    {
+      "front": "Krankenhaus",
+      "back": "Ospedale"
+    },
+    {
+      "front": "Frank arbeitet in einer Fabrik",
+      "back": "Frank lavora in una fabbrica"
+    },
+    {
+      "front": "Ich bin Moritz.",
+      "back": "Sono Moritz."
+    },
+    {
+      "front": "Chirurg",
+      "back": "Il chirurgo"
+    },
+    {
+      "front": "Achtzehn",
+      "back": "Diciotto"
+    },
+    {
+      "front": "Mir geht es schlecht.",
+      "back": "Sto male."
+    },
+    {
+      "front": "Sie haben (höflich)",
+      "back": "(Lei) ha"
+    },
+    {
+      "front": "Eine Sprachschule",
+      "back": "Una scuola di lingue&nbsp;"
+    },
+    {
+      "front": "91",
+      "back": "Novantuno"
+    },
+    {
+      "front": "Ich arbeite in einer Schule.",
+      "back": "Lavoro in una scuola."
+    },
+    {
+      "front": "Sie ist Maria.",
+      "back": "È Maria."
+    },
+    {
+      "front": "Wie geht es Ihnen (how goes it?)",
+      "back": "Come va?"
+    },
+    {
+      "front": "Wir arbeiten in einer Schule.",
+      "back": "Lavoriamo in una scuola."
+    },
+    {
+      "front": "eins",
+      "back": "uno"
+    },
+    {
+      "front": "Ich spreche italienisch.",
+      "back": "Parlo l’italiano."
+    },
+    {
+      "front": "Zwanzig",
+      "back": "Venti"
+    },
+    {
+      "front": "Ihr macht",
+      "back": "Voi fate"
+    },
+    {
+      "front": "Ich habe eine Frage.",
+      "back": "Ho una domanda."
+    },
+    {
+      "front": "Einigermaßen&nbsp;",
+      "back": "Abbastanza&nbsp;"
+    },
+    {
+      "front": "36",
+      "back": "Trentasei"
+    },
+    {
+      "front": "Nicht schlecht",
+      "back": "Non c'è male"
+    },
+    {
+      "front": "ich habe",
+      "back": "(io) ho"
+    },
+    {
+      "front": "Sie arbeiten in einer Fabrik.",
+      "back": "(Loro) lavorano in una fabbrica."
+    },
+    {
+      "front": "Was ist deine Telefonnummer?",
+      "back": "Qual è il tuo numero di telefono?"
+    },
+    {
+      "front": "Acht",
+      "back": "Otto"
+    },
+    {
+      "front": "Sie arbeitet in einem Supermarkt.",
+      "back": "(lei) lavora in un supermercato."
+    },
+    {
+      "front": "Ich studiere, ihr lernt&nbsp;",
+      "back": "Studio, studiate&nbsp;"
+    },
+    {
+      "front": "21",
+      "back": "Ventuno"
+    },
+    {
+      "front": "77",
+      "back": "Settantasette"
+    },
+    {
+      "front": "Fünf",
+      "back": "Cinque"
+    },
+    {
+      "front": "Guten Morgen!",
+      "back": "Buongiorno!"
+    },
+    {
+      "front": "Hallo, Giorgio!",
+      "back": "Ciao, Giorgio!"
+    },
+    {
+      "front": "zwei",
+      "back": "due"
+    },
+    {
+      "front": "Er macht",
+      "back": "Lui fa"
+    },
+    {
+      "front": "Sieben",
+      "back": "Sette"
+    },
+    {
+      "front": "Doktor",
+      "back": "Medico"
+    },
+    {
+      "front": "88",
+      "back": "Ottantotto"
+    },
+    {
+      "front": "Wie schreibt man deinen Namen?",
+      "back": "Come si scrive il tuo nome?"
+    },
+    {
+      "front": "Wie geht es dir (how are you)?",
+      "back": "Come stai?"
+    },
+    {
+      "front": "Du isst einen Apfel.",
+      "back": "Mangi una mela"
+    },
+    {
+      "front": "Das ist Anna, eine Freundin von mir.",
+      "back": "Questa è Anna, una mia amica."
+    },
+    {
+      "front": "Wie sagt man \"Käse\" auf italienisch?",
+      "back": "Come si dice “formaggio” in italiano?"
+    },
+    {
+      "front": "31",
+      "back": "Trentuno"
+    },
+    {
+      "front": "Sprichst du englisch?",
+      "back": "Parli l’inglese?"
+    },
+    {
+      "front": "Fünfzehn",
+      "back": "Quindici"
+    },
+    {
+      "front": "81",
+      "back": "Ottantuno"
+    },
+    {
+      "front": "Neun",
+      "back": "Nove"
+    },
+    {
+      "front": "Wir machen",
+      "back": "Noi facciamo&nbsp;"
+    },
+    {
+      "front": "Was arbeitest du?",
+      "back": "Che lavoro fai?"
+    },
+    {
+      "front": "Mir geht es heute gut!",
+      "back": "Oggi sto bene!"
+    },
+    {
+      "front": "51",
+      "back": "Cinquantuno"
+    },
+    {
+      "front": "Wie geht es dir (how goes it)?",
+      "back": "Come va?"
+    },
+    {
+      "front": "Bis zum nächsten Mal",
+      "back": "Alla prossima volta"
+    },
+    {
+      "front": "Siebzehn",
+      "back": "Diciasette"
+    },
+    {
+      "front": "86",
+      "back": "Ottantasei"
+    },
+    {
+      "front": "Sechzehn",
+      "back": "Sedici"
+    },
+    {
+      "front": "Vierzehn",
+      "back": "Quattordici"
+    },
+    {
+      "front": "Dreizehn",
+      "back": "Tredici"
+    },
+    {
+      "front": "96",
+      "back": "Novantasei"
+    }
+  ],
+  "updated_at": "2025-05-11T16:16:07.894812",
+  "count": 208
+}
