@@ -93,6 +93,18 @@
       "back": "subito"
     },
     {
+      "front": "spät",
+      "back": "tardi"
+    },
+    {
+      "front": "später",
+      "back": "più tardi"
+    },
+    {
+      "front": "aktuell, zurzeit",
+      "back": "attualmente"
+    },
+    {
       "front": "Vier",
       "back": "Quattro"
     },
@@ -837,6 +849,6 @@
       "back": "Novantasei"
     }
   ],
-  "updated_at": "2025-05-11T18:40:20.321739",
-  "count": 209
+  "updated_at": "2025-05-11T19:01:16.553294",
+  "count": 212
 }
