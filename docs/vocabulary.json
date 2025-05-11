@@ -209,7 +209,7 @@
       "back": "Di dov'è?"
     },
     {
-      "front": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p>Wo wohnst du?<br></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>",
+      "front": "Wo wohnst du?",
       "back": "Dove abiti?"
     },
     {
@@ -849,6 +849,6 @@
       "back": "Novantasei"
     }
   ],
-  "updated_at": "2025-05-11T19:12:31.951775",
+  "updated_at": "2025-05-11T19:17:22.104987",
   "count": 212
 }
