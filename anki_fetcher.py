@@ -20,14 +20,12 @@ def fetch_cards_from_anki(deck_name="Italiano"):
         response.raise_for_status()
         data = response.json()
 
-        print(f"Debug - Full response: {json.dumps(data, indent=2)}")
-
         if "error" in data and data["error"] is not None:
             print(f"Error fetching card IDs: {data['error']}")
             return []
 
         if "result" not in data:
-            print(f"Response missing 'result' field: {data}")
+            print(f"Response missing 'result' field")
             return []
 
         card_ids = data["result"]
@@ -45,14 +43,12 @@ def fetch_cards_from_anki(deck_name="Italiano"):
         response.raise_for_status()
         data = response.json()
 
-        print(f"Debug - Card info response: {json.dumps(data, indent=2)}")
-
         if "error" in data and data["error"] is not None:
             print(f"Error fetching card details: {data['error']}")
             return []
 
         if "result" not in data:
-            print(f"Response missing 'result' field: {data}")
+            print(f"Response missing 'result' field")
             return []
 
         return data["result"]
@@ -157,8 +153,8 @@ def main():
     success = push_to_github()
     if success:
         print("Successfully pushed to GitHub!")
-        print("Your vocabulary should be available at:")
-        print("https://YOUR_USERNAME.github.io/ragazzo-vocabulary/vocabulary.json")
+        print("Your vocabulary is available at:")
+        print("https://moritzmoeller.github.io/ragazzo-vocabulary/vocabulary.json")
     else:
         print("Failed to push to GitHub.")
 
