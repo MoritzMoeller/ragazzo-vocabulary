@@ -83,8 +83,14 @@ def format_cards(cards):
 
 def save_to_json(cards, output_dir="docs"):
     """Save cards to JSON file in the output directory"""
+    # Get script directory (repository root)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Create full path to output directory
+    full_output_dir = os.path.join(script_dir, output_dir)
+
     # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(full_output_dir, exist_ok=True)
 
     # Create the data structure
     data = {
@@ -94,9 +100,24 @@ def save_to_json(cards, output_dir="docs"):
     }
 
     # Save to file with fixed name
-    filename = f"{output_dir}/vocabulary.json"
+    filename = os.path.join(full_output_dir, "vocabulary.json")
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
+    # Create index.html
+    index_content = """<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="refresh" content="0; url=vocabulary.json">
+    <title>Ragazzo Vocabulary</title>
+</head>
+<body>
+    <p>Redirecting to vocabulary data...</p>
+</body>
+</html>
+"""
+    with open(os.path.join(full_output_dir, "index.html"), "w") as f:
+        f.write(index_content)
 
     return filename
 
