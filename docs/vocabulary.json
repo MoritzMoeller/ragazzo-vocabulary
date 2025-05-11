@@ -89,6 +89,10 @@
       "back": "<u>Così</u> va bene?"
     },
     {
+      "front": "sofort, gleich",
+      "back": "subito"
+    },
+    {
       "front": "Vier",
       "back": "Quattro"
     },
@@ -833,6 +837,6 @@
       "back": "Novantasei"
     }
   ],
-  "updated_at": "2025-05-11T16:33:03.888929",
-  "count": 208
+  "updated_at": "2025-05-11T18:36:38.877957",
+  "count": 209
 }
