@@ -98,21 +98,6 @@ def save_to_json(cards, output_dir="docs"):
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    # Also create a simple index.html page
-    index_content = """<!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="refresh" content="0; url=vocabulary.json">
-    <title>Ragazzo Vocabulary</title>
-</head>
-<body>
-    <p>Redirecting to vocabulary data...</p>
-</body>
-</html>
-"""
-    with open(f"{output_dir}/index.html", "w") as f:
-        f.write(index_content)
-
     return filename
 
 
