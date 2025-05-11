@@ -77,8 +77,8 @@
       "back": "ancora"
     },
     {
-      "front": "Noch eine Flasche Wasser",
-      "back": "<div>Ancora una bottiglia d’acqua</div>"
+      "front": "noch eine Flasche Wasser",
+      "back": "<div>ancora una bottiglia d’acqua</div>"
     },
     {
       "front": "etwas Käse",
@@ -121,8 +121,8 @@
       "back": "Lo studio legale&nbsp;"
     },
     {
-      "front": "Bevorzugen&nbsp;",
-      "back": "prefer - isc - o<div>prefer - isc - i</div><div>prefer - isc - e</div><div>prefer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- iamo</div><div>prefer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ite</div><div>prefer - isc - ono</div>"
+      "front": "bevorzugen&nbsp;",
+      "back": "preferisco&nbsp; <br>preferisci&nbsp; <br>preferisce&nbsp; <br>preferiamo&nbsp; <br>preferite&nbsp; <br>preferiscono"
     },
     {
       "front": "Der Tisch",
@@ -209,8 +209,8 @@
       "back": "Di dov'è?"
     },
     {
-      "front": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p><span style=\"font-size: 18.000000pt; font-family: 'PalatinoLinotype'\">Wo wohnst du?</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>",
-      "back": "<span style=\"font-family: PalatinoLinotype; font-size: 24px;\">Dove abiti?</span>"
+      "front": "\n\t\t\n\t\n\t\n\t\t<div class=\"page\" title=\"Page 1\">\n\t\t\t<div class=\"layoutArea\">\n\t\t\t\t<div class=\"column\">\n\t\t\t\t\t<p>Wo wohnst du?<br></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>",
+      "back": "Dove abiti?"
     },
     {
       "front": "56",
@@ -242,7 +242,7 @@
     },
     {
       "front": "Ihr arbeitet in einer Apotheke.",
-      "back": "(Voi) lavorate in una farmacia."
+      "back": "Lavorate in una farmacia."
     },
     {
       "front": "Hier",
@@ -294,7 +294,7 @@
     },
     {
       "front": "Bestimmte Artikel Plural Singular&nbsp;",
-      "back": "<img src=\"image-d37059190da2e9ec59f8028a05d12fcf0739d2cb.png\">"
+      "back": "<div><strong>Maskulinum (männlich):</strong></div>\n<ul>\n<li>\n<div><strong>Singular:</strong></div>\n<ul>\n<li>\n<div><strong>il</strong> → vor Konsonant: <em>il libro</em></div>\n</li>\n<li>\n<div><strong>lo</strong> → vor s + Konsonant, z, ps, gn: <em>lo studente, lo zaino</em></div>\n</li>\n<li>\n<div><strong>l’</strong> → vor Vokal: <em>l’amico</em></div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Plural:</strong></div>\n<ul>\n<li>\n<div><strong>i</strong> → für „il“: <em>i libri</em></div>\n</li>\n<li>\n<div><strong>gli</strong> → für „lo“ und „l’“: <em>gli studenti, gli amici</em></div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Femininum (weiblich):</strong></div>\n<ul>\n<li>\n<div><strong>Singular:</strong></div>\n<ul>\n<li>\n<div><strong>la</strong> → vor Konsonant: <em>la casa</em></div>\n</li>\n<li>\n<div><strong>l’</strong> → vor Vokal: <em>l’amica</em></div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Plural:</strong></div>\n<ul>\n<li>\n<div><strong>le</strong> → für alles: <em>le case, le amiche</em></div></li></ul></li></ul>"
     },
     {
       "front": "Was ist Ihre Telefonnummer?",
@@ -597,8 +597,8 @@
       "back": "Loro fanno"
     },
     {
-      "front": "Ich kenne französisch&nbsp;",
-      "back": "Conosco il Francese&nbsp;"
+      "front": "Ich kenne Französisch&nbsp;",
+      "back": "Conosco il francese&nbsp;"
     },
     {
       "front": "Kosmetiker,kosmetikerin",
@@ -849,6 +849,6 @@
       "back": "Novantasei"
     }
   ],
-  "updated_at": "2025-05-11T19:01:16.553294",
+  "updated_at": "2025-05-11T19:12:31.951775",
   "count": 212
 }
