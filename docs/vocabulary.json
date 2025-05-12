@@ -1,128 +1,56 @@
 {
   "vocabulary": [
     {
-      "front": "Drei Servietten fehlen",
-      "back": "Mancano tre tovaglioli"
+      "front": "Und du, wie heißt du?",
+      "back": "E tu come ti chiami?"
     },
     {
-      "front": "Entschuldigen Sie!",
-      "back": "Scusi!"
+      "front": "26",
+      "back": "Ventisei"
     },
     {
-      "front": "Bitte",
-      "back": "Per favore, Per cortesia"
+      "front": "71",
+      "back": "Settantuno"
     },
     {
-      "front": "Danke",
-      "back": "Grazie"
+      "front": "Ihr arbeitet in einer Apotheke.",
+      "back": "Lavorate in una farmacia."
     },
     {
-      "front": "hoffentlich (auch: vielleicht)",
-      "back": "magari"
-    },
-    {
-      "front": "Vielleicht später (hoffentlich)",
-      "back": "Magari dopo"
-    },
-    {
-      "front": "Zahlen",
-      "back": "Pagare"
-    },
-    {
-      "front": "Die Rechnung bitte",
-      "back": "Il conto, per favore"
-    },
-    {
-      "front": "Wie viel kostet das?",
-      "back": "Quant'è?"
-    },
-    {
-      "front": "Mit der Karte, bitte",
-      "back": "Con la carta, per piacere"
-    },
-    {
-      "front": "Hier akzeptieren wir nur cash.",
-      "back": "Qui accettiamo solo contanti."
-    },
-    {
-      "front": "Trinkgeld",
-      "back": "La mancia"
-    },
-    {
-      "front": "Mittagessen",
-      "back": "Pranzo"
-    },
-    {
-      "front": "Trinkgeld geben",
-      "back": "Dare la mancia"
-    },
-    {
-      "front": "Etwas anderes",
-      "back": "Qualcos'altro"
-    },
-    {
-      "front": "Kann ich das mitnehmen?",
-      "back": "Posso portar via?"
-    },
-    {
-      "front": "Kellner",
-      "back": "Cameriere"
-    },
-    {
-      "front": "Toilette",
-      "back": "Bagno"
-    },
-    {
-      "front": "noch, nochmal, immer noch",
-      "back": "ancora"
-    },
-    {
-      "front": "noch eine Flasche Wasser",
-      "back": "<div>ancora una bottiglia d’acqua</div>"
-    },
-    {
-      "front": "etwas Käse",
-      "back": "del formaggio"
-    },
-    {
-      "front": "Ist das <u>so</u> in Ordnung?",
-      "back": "<u>Così</u> va bene?"
-    },
-    {
-      "front": "sofort, gleich",
-      "back": "subito"
-    },
-    {
-      "front": "spät",
-      "back": "tardi"
-    },
-    {
-      "front": "später",
-      "back": "più tardi"
-    },
-    {
-      "front": "aktuell, zurzeit",
-      "back": "attualmente"
-    },
-    {
-      "front": "Vier",
-      "back": "Quattro"
-    },
-    {
-      "front": "46",
-      "back": "Quarantasei"
+      "front": "Laura und Anna sind glücklich&nbsp;",
+      "back": "Laura e Anna&nbsp;sono felici&nbsp;"
     },
     {
       "front": "Bei",
       "back": "presso, da"
     },
     {
-      "front": "Anwaltskanzlei",
-      "back": "Lo studio legale&nbsp;"
+      "front": "Das Büro",
+      "back": "L’ufficio"
     },
     {
-      "front": "bevorzugen&nbsp;",
-      "back": "preferisco&nbsp; <br>preferisci&nbsp; <br>preferisce&nbsp; <br>preferiamo&nbsp; <br>preferite&nbsp; <br>preferiscono"
+      "front": "Meine tochter braucht viele unterhaltungen",
+      "back": "Mia figlia ha bisogno di fare molta conversazione."
+    },
+    {
+      "front": "Zuerst muss ich einen Kaffee trinken",
+      "back": "Prima ho bisogno di bere un caffè"
+    },
+    {
+      "front": "Ich möchte ein Bier!",
+      "back": "Vorrei una birra!"
+    },
+    {
+      "front": "Nehmen, alle formen",
+      "back": "prend - o<div>prend - i</div><div>prend - e</div><div>prend - iamo</div><div>prend - ete</div><div>prend - ono</div>"
+    },
+    {
+      "front": "Was nehmen sie zum essen?",
+      "back": "Che cosa prendono da mangiare?"
+    },
+    {
+      "front": "Bestimmte Artikel Plural Singular&nbsp;",
+      "back": "<div><strong>Maskulinum (männlich):</strong></div>\n<ul>\n<li>\n<div><strong>Singular:</strong></div>\n<ul>\n<li>\n<div><strong>il</strong> → vor Konsonant: <em>il libro</em></div>\n</li>\n<li>\n<div><strong>lo</strong> → vor s + Konsonant, z, ps, gn: <em>lo studente, lo zaino</em></div>\n</li>\n<li>\n<div><strong>l’</strong> → vor Vokal: <em>l’amico</em></div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Plural:</strong></div>\n<ul>\n<li>\n<div><strong>i</strong> → für „il“: <em>i libri</em></div>\n</li>\n<li>\n<div><strong>gli</strong> → für „lo“ und „l’“: <em>gli studenti, gli amici</em></div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Femininum (weiblich):</strong></div>\n<ul>\n<li>\n<div><strong>Singular:</strong></div>\n<ul>\n<li>\n<div><strong>la</strong> → vor Konsonant: <em>la casa</em></div>\n</li>\n<li>\n<div><strong>l’</strong> → vor Vokal: <em>l’amica</em></div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Plural:</strong></div>\n<ul>\n<li>\n<div><strong>le</strong> → für alles: <em>le case, le amiche</em></div></li></ul></li></ul>"
     },
     {
       "front": "Der Tisch",
@@ -149,32 +77,8 @@
       "back": "Cucchiaino"
     },
     {
-      "front": "Messer",
-      "back": "Coltello"
-    },
-    {
-      "front": "Essig",
-      "back": "Aceto"
-    },
-    {
       "front": "Öl",
       "back": "Olio"
-    },
-    {
-      "front": "Wasser",
-      "back": "Acqua"
-    },
-    {
-      "front": "Salz und Pfeffer",
-      "back": "Sale e pepe"
-    },
-    {
-      "front": "Teller",
-      "back": "Piatto"
-    },
-    {
-      "front": "Brot",
-      "back": "Pane"
     },
     {
       "front": "Serviette",
@@ -189,108 +93,36 @@
       "back": "Tazza"
     },
     {
-      "front": "Tässchen",
-      "back": "Tazzina"
-    },
-    {
-      "front": "Besteck",
-      "back": "Le posate"
-    },
-    {
       "front": "Eine Serviette fehlt!",
       "back": "Manca un tovagliolo!"
     },
     {
-      "front": "Woher kommen Sie?",
-      "back": "Di dov'è?"
+      "front": "Drei Servietten fehlen",
+      "back": "Mancano tre tovaglioli"
     },
     {
-      "front": "Wo wohnst du?",
-      "back": "Dove abiti?"
+      "front": "etwas Käse",
+      "back": "del formaggio"
     },
     {
-      "front": "56",
-      "back": "Cinquantasei"
+      "front": "Ist das <u>so</u> in Ordnung?",
+      "back": "<u>Così</u> va bene?"
     },
     {
-      "front": "Laura und Anna sind glücklich&nbsp;",
-      "back": "Laura e Anna&nbsp;sono felici&nbsp;"
+      "front": "sofort, gleich",
+      "back": "subito"
     },
     {
-      "front": "Sekretärin",
-      "back": "La segretaria"
+      "front": "spät",
+      "back": "tardi"
     },
     {
-      "front": "Zuerst muss ich einen Kaffee trinken",
-      "back": "Prima ho bisogno di bere un caffè"
+      "front": "später",
+      "back": "più tardi"
     },
     {
-      "front": "Wie lautet deine Adresse?",
-      "back": "Qual è il tuo indirizzo?"
-    },
-    {
-      "front": "Sechs",
-      "back": "Sei"
-    },
-    {
-      "front": "Ich wohne in Berlin.",
-      "back": "Abito a Berlino."
-    },
-    {
-      "front": "Ihr arbeitet in einer Apotheke.",
-      "back": "Lavorate in una farmacia."
-    },
-    {
-      "front": "Hier",
-      "back": "Qui, qua"
-    },
-    {
-      "front": "Jetzt",
-      "back": "Ora&nbsp;"
-    },
-    {
-      "front": "Wie alt bist du?",
-      "back": "Quanti anni hai?"
-    },
-    {
-      "front": "Ich sende dir eine nachricht",
-      "back": "Ti invio un messaggio"
-    },
-    {
-      "front": "Was nehmen sie zum essen?",
-      "back": "Che cosa prendono da mangiare?"
-    },
-    {
-      "front": "Und du, wie heißt du?",
-      "back": "E tu come ti chiami?"
-    },
-    {
-      "front": "26",
-      "back": "Ventisei"
-    },
-    {
-      "front": "71",
-      "back": "Settantuno"
-    },
-    {
-      "front": "Das Büro",
-      "back": "L’ufficio"
-    },
-    {
-      "front": "Meine tochter braucht viele unterhaltungen",
-      "back": "Mia figlia ha bisogno di fare molta conversazione."
-    },
-    {
-      "front": "Ich möchte ein Bier!",
-      "back": "Vorrei una birra!"
-    },
-    {
-      "front": "Nehmen, alle formen",
-      "back": "prend - o<div>prend - i</div><div>prend - e</div><div>prend - iamo</div><div>prend - ete</div><div>prend - ono</div>"
-    },
-    {
-      "front": "Bestimmte Artikel Plural Singular&nbsp;",
-      "back": "<div><strong>Maskulinum (männlich):</strong></div>\n<ul>\n<li>\n<div><strong>Singular:</strong></div>\n<ul>\n<li>\n<div><strong>il</strong> → vor Konsonant: <em>il libro</em></div>\n</li>\n<li>\n<div><strong>lo</strong> → vor s + Konsonant, z, ps, gn: <em>lo studente, lo zaino</em></div>\n</li>\n<li>\n<div><strong>l’</strong> → vor Vokal: <em>l’amico</em></div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Plural:</strong></div>\n<ul>\n<li>\n<div><strong>i</strong> → für „il“: <em>i libri</em></div>\n</li>\n<li>\n<div><strong>gli</strong> → für „lo“ und „l’“: <em>gli studenti, gli amici</em></div>\n</li>\n</ul>\n</li>\n</ul>\n<div><strong>Femininum (weiblich):</strong></div>\n<ul>\n<li>\n<div><strong>Singular:</strong></div>\n<ul>\n<li>\n<div><strong>la</strong> → vor Konsonant: <em>la casa</em></div>\n</li>\n<li>\n<div><strong>l’</strong> → vor Vokal: <em>l’amica</em></div>\n</li>\n</ul>\n</li>\n<li>\n<div><strong>Plural:</strong></div>\n<ul>\n<li>\n<div><strong>le</strong> → für alles: <em>le case, le amiche</em></div></li></ul></li></ul>"
+      "front": "aktuell, zurzeit",
+      "back": "attualmente"
     },
     {
       "front": "Was ist Ihre Telefonnummer?",
@@ -309,6 +141,34 @@
       "back": "Hai il braccino corto"
     },
     {
+      "front": "bevorzugen&nbsp;",
+      "back": "preferisco&nbsp; <br>preferisci&nbsp; <br>preferisce&nbsp; <br>preferiamo&nbsp; <br>preferite&nbsp; <br>preferiscono"
+    },
+    {
+      "front": "Essig",
+      "back": "Aceto"
+    },
+    {
+      "front": "Wasser",
+      "back": "Acqua"
+    },
+    {
+      "front": "Salz und Pfeffer",
+      "back": "Sale e pepe"
+    },
+    {
+      "front": "Teller",
+      "back": "Piatto"
+    },
+    {
+      "front": "Brot",
+      "back": "Pane"
+    },
+    {
+      "front": "Tässchen",
+      "back": "Tazzina"
+    },
+    {
       "front": "Zehn",
       "back": "Dieci"
     },
@@ -323,6 +183,38 @@
     {
       "front": "Putzen",
       "back": "Pul - isc - o<div>pul - isc - i</div><div>pul - isc - e</div><div>pul &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- iamo</div><div>pul &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- ite</div><div>pul - isc - ono</div>"
+    },
+    {
+      "front": "Bitte",
+      "back": "Per favore, Per cortesia"
+    },
+    {
+      "front": "Vielleicht später (hoffentlich)",
+      "back": "Magari dopo"
+    },
+    {
+      "front": "Zahlen",
+      "back": "Pagare"
+    },
+    {
+      "front": "Die Rechnung bitte",
+      "back": "Il conto, per favore"
+    },
+    {
+      "front": "Trinkgeld",
+      "back": "La mancia"
+    },
+    {
+      "front": "Trinkgeld geben",
+      "back": "Dare la mancia"
+    },
+    {
+      "front": "noch, nochmal, immer noch",
+      "back": "ancora"
+    },
+    {
+      "front": "noch eine Flasche Wasser",
+      "back": "<div>ancora una bottiglia d’acqua</div>"
     },
     {
       "front": "66",
@@ -345,6 +237,22 @@
       "back": "voglio<div>vuoi</div><div>vuole</div><div>vogliamo</div><div>volete</div><div>vogliono</div>"
     },
     {
+      "front": "Besteck",
+      "back": "Le posate"
+    },
+    {
+      "front": "Danke",
+      "back": "Grazie"
+    },
+    {
+      "front": "Etwas anderes",
+      "back": "Qualcos'altro"
+    },
+    {
+      "front": "Kann ich das mitnehmen?",
+      "back": "Posso portar via?"
+    },
+    {
       "front": "Das ist Max, ein Freund von mir.",
       "back": "Questo è Max, un mio amico."
     },
@@ -355,6 +263,42 @@
     {
       "front": "Weniger",
       "back": "Di meno"
+    },
+    {
+      "front": "Messer",
+      "back": "Coltello"
+    },
+    {
+      "front": "Entschuldigen Sie!",
+      "back": "Scusi!"
+    },
+    {
+      "front": "hoffentlich (auch: vielleicht)",
+      "back": "magari"
+    },
+    {
+      "front": "Wie viel kostet das?",
+      "back": "Quant'è?"
+    },
+    {
+      "front": "Mit der Karte, bitte",
+      "back": "Con la carta, per piacere"
+    },
+    {
+      "front": "Hier akzeptieren wir nur cash.",
+      "back": "Qui accettiamo solo contanti."
+    },
+    {
+      "front": "Mittagessen",
+      "back": "Pranzo"
+    },
+    {
+      "front": "Kellner",
+      "back": "Cameriere"
+    },
+    {
+      "front": "Toilette",
+      "back": "Bagno"
     },
     {
       "front": "drei",
@@ -373,12 +317,24 @@
       "back": "Bicchiere, Bicchieri"
     },
     {
+      "front": "Wie lautet deine Adresse?",
+      "back": "Qual è il tuo indirizzo?"
+    },
+    {
       "front": "41",
       "back": "Quarantuno"
     },
     {
+      "front": "Ich sende dir eine nachricht",
+      "back": "Ti invio un messaggio"
+    },
+    {
       "front": "Wir haben",
       "back": "Noi abbiamo"
+    },
+    {
+      "front": "Woher kommen Sie?",
+      "back": "Di dov'è?"
     },
     {
       "front": "du hast",
@@ -399,6 +355,10 @@
     {
       "front": "Mir geht es heute sehr gut!",
       "back": "Oggi sto benissimo!"
+    },
+    {
+      "front": "Hier",
+      "back": "Qui, qua"
     },
     {
       "front": "Sie suchen",
@@ -427,6 +387,10 @@
     {
       "front": "Ihr seid",
       "back": "(Voi) siete"
+    },
+    {
+      "front": "Jetzt",
+      "back": "Ora&nbsp;"
     },
     {
       "front": "Sie haben",
@@ -765,6 +729,10 @@
       "back": "Come si scrive il tuo nome?"
     },
     {
+      "front": "Wie alt bist du?",
+      "back": "Quanti anni hai?"
+    },
+    {
       "front": "Wie geht es dir (how are you)?",
       "back": "Come stai?"
     },
@@ -781,12 +749,20 @@
       "back": "Come si dice “formaggio” in italiano?"
     },
     {
+      "front": "Anwaltskanzlei",
+      "back": "Lo studio legale&nbsp;"
+    },
+    {
       "front": "31",
       "back": "Trentuno"
     },
     {
       "front": "Sprichst du englisch?",
       "back": "Parli l’inglese?"
+    },
+    {
+      "front": "Sekretärin",
+      "back": "La segretaria"
     },
     {
       "front": "Fünfzehn",
@@ -847,8 +823,32 @@
     {
       "front": "96",
       "back": "Novantasei"
+    },
+    {
+      "front": "Sechs",
+      "back": "Sei"
+    },
+    {
+      "front": "46",
+      "back": "Quarantasei"
+    },
+    {
+      "front": "Vier",
+      "back": "Quattro"
+    },
+    {
+      "front": "56",
+      "back": "Cinquantasei"
+    },
+    {
+      "front": "Ich wohne in Berlin.",
+      "back": "Abito a Berlino."
+    },
+    {
+      "front": "Wo wohnst du?",
+      "back": "Dove abiti?"
     }
   ],
-  "updated_at": "2025-05-12T09:37:03.431718",
+  "updated_at": "2025-05-12T14:50:51.422676",
   "count": 212
 }
