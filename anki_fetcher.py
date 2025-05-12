@@ -156,7 +156,39 @@ def push_to_github():
         return False
 
 
+def pull_from_github():
+    """Pull latest changes from GitHub"""
+    try:
+        # Store current directory
+        current_dir = os.getcwd()
+
+        # Get script directory (repository root)
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+
+        # Change to repository directory
+        os.chdir(script_dir)
+
+        # Pull from origin
+        os.system("git pull origin main")
+
+        # Return to original directory
+        os.chdir(current_dir)
+
+        return True
+    except Exception as e:
+        print(f"Error pulling from GitHub: {e}")
+        # Ensure we return to original directory even if error occurs
+        if "current_dir" in locals():
+            os.chdir(current_dir)
+        return False
+
+
 def main():
+    print("Pulling latest changes from GitHub...")
+    pull_success = pull_from_github()
+    if not pull_success:
+        print("Warning: Failed to pull latest changes. Continuing anyway...")
+
     print("Fetching cards from Anki...")
     cards = fetch_cards_from_anki("Italiano")
 
