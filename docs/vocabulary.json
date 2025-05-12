@@ -137,10 +137,6 @@
       "back": "Tutti a tavola!"
     },
     {
-      "front": "Glas, Gläser",
-      "back": "Bicchiere, Bicchieri"
-    },
-    {
       "front": "Gabel",
       "back": "Forchetta"
     },
@@ -371,6 +367,10 @@
     {
       "front": "Für einen sauberen Mund",
       "back": "Per una bocca pulita&nbsp;"
+    },
+    {
+      "front": "Glas, Gläser",
+      "back": "Bicchiere, Bicchieri"
     },
     {
       "front": "41",
@@ -849,6 +849,6 @@
       "back": "Novantasei"
     }
   ],
-  "updated_at": "2025-05-11T19:17:22.104987",
+  "updated_at": "2025-05-12T09:36:42.207161",
   "count": 212
 }
