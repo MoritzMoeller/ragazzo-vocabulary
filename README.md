@@ -24,6 +24,25 @@ pip install --upgrade pip
 pip install -e .
 ```
 
+## Setting up the Command Alias
+
+To use the `ragazzo-vocabulary` command from anywhere in your terminal, add this alias to your `~/.zshrc` file. Replace `YOUR_REPO_PATH` with the absolute path to your repository:
+
+```bash
+# Alias for ragazzo-vocabulary
+alias ragazzo-vocabulary="YOUR_REPO_PATH/venv/bin/ragazzo-vocabulary"
+```
+
+To find your repository path, run this command from your repository directory:
+```bash
+pwd
+```
+
+Then reload your shell configuration:
+```bash
+source ~/.zshrc
+```
+
 ## Usage
 
 1. Make sure Anki is running with the AnkiConnect add-on installed
