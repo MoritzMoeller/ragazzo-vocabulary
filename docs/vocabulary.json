@@ -1,6 +1,150 @@
 {
   "vocabulary": [
     {
+      "front": "Das Essen",
+      "back": "il tschibo"
+    },
+    {
+      "front": "Freizeit",
+      "back": "tempo libero"
+    },
+    {
+      "front": "sport treiben",
+      "back": "fare sport"
+    },
+    {
+      "front": "schlafen",
+      "back": "dormire; dorm| -o, -i, -e, -iamo, -ite, -ono"
+    },
+    {
+      "front": "sprechen",
+      "back": "parlare"
+    },
+    {
+      "front": "tanzen",
+      "back": "ballare"
+    },
+    {
+      "front": "Fussball, Karten, Volleyball spielen",
+      "back": "giocare a caclio, carte, pallavollo"
+    },
+    {
+      "front": "Joggen",
+      "back": "correre"
+    },
+    {
+      "front": "chatten",
+      "back": "chattare"
+    },
+    {
+      "front": "gewöhnlich",
+      "back": "di solito"
+    },
+    {
+      "front": "lesen",
+      "back": "leggere; legg| -o, -i, -e, -iamo, -ete, -ono"
+    },
+    {
+      "front": "verben mit -isc",
+      "back": "preferire, pulire, finire, capire"
+    },
+    {
+      "front": "gehen",
+      "back": "andare; vado, vai, andiamo, andate, vanno"
+    },
+    {
+      "front": "können",
+      "back": "posso, puoi, può, possiamo, potete, possono"
+    },
+    {
+      "front": "ausgehen, verlassen",
+      "back": "esco, esci, esce, usciamo, uscite, escono"
+    },
+    {
+      "front": "geben",
+      "back": "do, dai, da, diamo, date, danno"
+    },
+    {
+      "front": "dire",
+      "back": "dico, dici, dice, diciamo, dite, dicono"
+    },
+    {
+      "front": "Fahrrad fahren",
+      "back": "andare in bicicletta"
+    },
+    {
+      "front": "Ein Instrument spielen",
+      "back": "suonare uno instrumente"
+    },
+    {
+      "front": "singen",
+      "back": "cantare"
+    },
+    {
+      "front": "kochen",
+      "back": "cucinare"
+    },
+    {
+      "front": "segeln",
+      "back": "andare in barca"
+    },
+    {
+      "front": "lieben",
+      "back": "amare"
+    },
+    {
+      "front": "manchmal",
+      "back": "a volte, qualche volte"
+    },
+    {
+      "front": "gerne",
+      "back": "volentieri"
+    },
+    {
+      "front": "nach der Arbeit",
+      "back": "dopo il lavoro"
+    },
+    {
+      "front": "Spaziergang",
+      "back": "fare una passeggiata"
+    },
+    {
+      "front": "Montag",
+      "back": "lunedì"
+    },
+    {
+      "front": "Dienstag",
+      "back": "martedì"
+    },
+    {
+      "front": "Mittwoch",
+      "back": "Mercoledì"
+    },
+    {
+      "front": "Donnerstag",
+      "back": "Giovedì"
+    },
+    {
+      "front": "Freitag",
+      "back": "Venerdì"
+    },
+    {
+      "front": "Samstag",
+      "back": "sabato"
+    },
+    {
+      "front": "Sonntag",
+      "back": "domenica"
+    },
+    {
+      "front": "oft",
+      "back": "spesso"
+    },
+    {
+      "front": "ich gehe nie",
+      "back": "non vado mai"
+    },
+    {
       "front": "Und du, wie heißt du?",
       "back": "E tu come ti chiami?"
     },
@@ -849,6 +993,6 @@
       "back": "Dove abiti?"
     }
   ],
-  "updated_at": "2025-05-12T16:44:11.422403",
-  "count": 212
+  "updated_at": "2025-05-17T18:49:26.529160",
+  "count": 248
 }
